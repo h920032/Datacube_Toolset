@@ -1,7 +1,6 @@
 ## Datacube Toolset
 
 ### Download
-In Command Line:  
 	git clone https://github.com/h920032/Datacube_Toolset.git
 
 ### Environment
