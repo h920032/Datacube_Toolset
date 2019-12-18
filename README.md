@@ -9,6 +9,7 @@
 ### Author
 |h920032|H.Y Shih
 |---|---
-|Undergraduate | National Taiwan University
-|Department|Information Management, Forest and Environment Resources Conservation
+|Undergraduate | National Taiwan University(NTU)
+|Department|Information Management(Major)
+||Forest and Environment Resources Conservation(Double Major)
 |Email|h920032@gmail.com|
